@@ -49,6 +49,6 @@ public class Mobile {
 	public void setIDogfightModel(){
 		this.iDogfightModel = iDogfightModel;
 	}
-
+Test;
 
 }
