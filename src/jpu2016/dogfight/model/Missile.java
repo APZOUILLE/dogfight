@@ -1,4 +1,4 @@
-package model;
+package jpu2016.dogfight.model;
 
 public class Missile {
 	private static final int SPEED = 4;
