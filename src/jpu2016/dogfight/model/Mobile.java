@@ -1,4 +1,4 @@
-package model;
+package jpu2016.dogfight.model;
 import java.awt.color.*;
 
 public class Mobile {
@@ -49,6 +49,6 @@ public class Mobile {
 	public void setIDogfightModel(){
 		this.iDogfightModel = iDogfightModel;
 	}
-Test;
+
 
 }
